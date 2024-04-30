@@ -17,8 +17,6 @@ meeting_times: A dictionary mapping course codes to meeting times.
 Example:
 Enter a class name: CS101
 Output:
-yaml
-Copy code
 Class: CS101
 Room: 3004
 Instructor: Haynes
